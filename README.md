@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="src/assets/img/logo.png" alt="Nerd Fonts Logo" />
+  Client Panel Application
 </h1>
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<h1>
+    <img src="src/assets/img/header.png" alt="Nerd Fonts Logo" />
+</h1>
 
 ## Code scaffolding
 
