@@ -10,7 +10,7 @@
 
 Client management system that integrated with firebase.
 
-<p align="center"><img width=95% src="src/assets/img/logo2.png"></p>
+<p align="center"><img width=30% src="src/assets/img/logo2.png"></p>
 
 <br>
 
