@@ -6,9 +6,24 @@
     <img src="src/assets/img/header.png" alt="Nerd Fonts Logo" />
 </h1>
 
+## Basic Overview
+
+Client management system that integrated with firebase.
+
+<p align="center"><img width=95% src="src/assets/img/logo2.png"></p>
+
+<br>
+
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
+- [Angular 4]().
+- [Firebase]().
+- [Flash Messages - Angular 2 Module]().
+- [Bootstrap 4 Alpha]().
+- [JQuery]().
+- [HTML5]()
+- [CSS3]()
+- [SASS]()
 
 ## Build
 
