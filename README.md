@@ -2,7 +2,7 @@
   Client Panel Application
 </h1>
 
-<h1>
+<h1 align="center">
     <img src="src/assets/img/header.png" alt="Nerd Fonts Logo" />
 </h1>
 
