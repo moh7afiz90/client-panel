@@ -1,6 +1,6 @@
-# ClientPanel
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
+<h1 align="center">
+  <img src="assets/img/logo.png" alt="Nerd Fonts Logo" />
+</h1>
 
 ## Development server
 
