@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/img/logo.png" alt="Nerd Fonts Logo" />
+  <img src="src/assets/img/logo.png" alt="Nerd Fonts Logo" />
 </h1>
 
 ## Development server
